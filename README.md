@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jatin300504
+- 👋 Hi, I’m Jatin Joshi, you can call me JJ
 - 👀 I’m interested in technology especially the field computing and its applications in real world
 - 🌱 I’m currently learning computer science and engineering from JUET_Guna
 - 💞️ I’m looking to collaborate on developement and competetive programming
